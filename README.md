@@ -3,7 +3,6 @@
 [![](https://img.shields.io/badge/-@whyx1ere-ffffff?style=flat-square&logo=x&logoColor=000000)](https://x.com/whyx1ere)
 [![](https://img.shields.io/badge/-@nebylotech-ffffff?style=flat-square&logo=github&logoColor=000000)](https://github.com/nebylotech)
 [![](https://img.shields.io/badge/-@arc73-ffffff?style=flat-square&logo=telegram&logoColor=000000)](https://t.me/arc73)
-
 ---
 
 𝑩𝒂𝒄𝒌-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!

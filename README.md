@@ -42,7 +42,3 @@
 ![VSCodium](https://img.shields.io/badge/-VSCodium-2F80ED?style=flat-square&logo=vscodium&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-%23646CFF?style=flat-square&logo=vite&logoColor=ffffff)
 ![ESLint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
-
-## 𝙎𝙩𝙖𝙩𝙨
-
-![nebylotech's github stats](https://github-readme-stats.vercel.app/api?username=nebylotech&show_icons=true&theme=tokyonight&hide_border=true&card_width=750)
